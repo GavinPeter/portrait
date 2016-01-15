@@ -2,9 +2,8 @@
 
 body{
 	//overflow:hidden;
-	background-color:#87CEEB;
-	margin:0;
-	padding:0;
+	background-image: url("../img/background.png");
+
 }
 
 .flipbook .page-wrapper{
